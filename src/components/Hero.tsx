@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-indigo-50 via-white to-amber-50 text-center px-6"
+      className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-yellow-50 via-white to-amber-50 text-center px-6"
     >
       <div className="w-24 h-24 rounded-full bg-brand flex items-center justify-center text-white text-4xl font-bold mb-6 shadow-lg">
         S
@@ -24,7 +24,7 @@ export default function Hero() {
         </a>
         <a
           href="#contact"
-          className="px-6 py-3 border-2 border-brand text-brand rounded-full font-semibold hover:bg-indigo-50 transition-colors"
+          className="px-6 py-3 border-2 border-brand text-brand rounded-full font-semibold hover:bg-yellow-50 transition-colors"
         >
           Get in Touch
         </a>
