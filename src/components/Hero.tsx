@@ -10,7 +10,7 @@ export default function Hero() {
         S
       </div>
       <h1 className="text-5xl md:text-6xl font-extrabold text-gray-900 mb-4">
-        Hi, I'm <span className="text-brand">Saad</span>
+        Hi, I'm <span className="text-brand">Saada</span>
       </h1>
       <p className="text-xl md:text-2xl text-gray-500 max-w-xl mb-8">
         Frontend Developer &amp; UI Enthusiast crafting clean, performant web experiences.
