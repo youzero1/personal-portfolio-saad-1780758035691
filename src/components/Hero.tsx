@@ -7,10 +7,10 @@ export default function Hero() {
       className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-indigo-50 via-white to-amber-50 text-center px-6"
     >
       <div className="w-24 h-24 rounded-full bg-brand flex items-center justify-center text-white text-4xl font-bold mb-6 shadow-lg">
-        JD
+        S
       </div>
       <h1 className="text-5xl md:text-6xl font-extrabold text-gray-900 mb-4">
-        Hi, I'm <span className="text-brand">Jane Doe</span>
+        Hi, I'm <span className="text-brand">Saad</span>
       </h1>
       <p className="text-xl md:text-2xl text-gray-500 max-w-xl mb-8">
         Frontend Developer &amp; UI Enthusiast crafting clean, performant web experiences.
